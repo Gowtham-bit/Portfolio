@@ -104,7 +104,7 @@ export default function ProjectsPage() {
                     to={`/case-study/${project.slug}`}
                     className="inline-flex items-center gap-1.5 text-sm font-medium text-zinc-900 dark:text-white nl group-hover:text-accent"
                   >
-                    View case study <ArrowRight className="w-3.5 h-3.5" />
+                    View details <ArrowRight className="w-3.5 h-3.5" />
                   </Link>
                 </div>
               </article>
