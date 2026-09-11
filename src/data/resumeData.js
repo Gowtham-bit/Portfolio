@@ -7,9 +7,9 @@ export const personalInfo = {
   location: 'Erode, Tamil Nadu, India',
   college: 'Bannari Amman Institute of Technology',
   locationDetail: 'Sathyamangalam, Erode, Tamil Nadu',
-  linkedin: 'https://linkedin.com/in/',
-  github: 'https://github.com/',
-  leetcode: 'https://leetcode.com/',
+  linkedin: 'www.linkedin.com/in/s-gowtham-982a08296',
+  github: 'https://github.com/Gowtham-bit',
+  leetcode: 'https://leetcode.com/u/sgm_2006/',
   profileSummary:
     'Computer Science Engineering student with a foundation in Java, web development, and database management. Experienced in developing academic projects using React, Node.js, Express.js, and MongoDB. Passionate about problem-solving and eager to contribute while learning modern software development practices.',
   languages: ['English', 'Tamil'],
